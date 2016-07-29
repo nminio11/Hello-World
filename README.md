@@ -1,4 +1,4 @@
 # Hello-World
 Practice Repository 
 
-hello, my namr is nick
+hello, my name is nick
